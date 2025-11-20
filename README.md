@@ -108,19 +108,18 @@ Choose from multiple interactive charts:
 | IDE             | VS Code / Jupyter Notebook             |
 | Version Control | Git & GitHub                           |
 
-------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
 🚀 How to Run the Project
-Step 1 — Clone the Repository
+```bash
+# Step 1 — Clone the Repository
 git clone https://github.com/sakshisajjanwar/Health-Risk-Dashboard.git
 cd Health-Risk-Dashboard
 
-Step 2 — Install Dependencies
+# Step 2 — Install Dependencies
 pip install -r requirements.txt
 
-Or install manually:
+# (Optional) Manual Installation
 pip install streamlit pandas seaborn matplotlib
 
-Step 3 — Run the Streamlit App
-streamlit run healthrisk
-
-If you like this project, please ⭐ star the repo
+# Step 3 — Run the Streamlit App
+streamlit run healthrisk.py
