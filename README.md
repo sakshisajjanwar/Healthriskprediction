@@ -4,6 +4,7 @@ An Interactive Streamlit App for Exploring Factors Affecting Health
 This project is a Streamlit-based interactive dashboard designed to analyze how lifestyle habits such as diet, exercise, sleep, and daily routines impact overall health risks.
 Users can filter, explore, visualize, and interpret key insights from the dataset—all through a clean and intuitive UI.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📘 Project Overview
 
 The Lifestyle & Health Risk Dashboard provides:
@@ -83,15 +84,19 @@ Encouraged exploration to uncover trends
 # 🧩 Features
 ✔️ 1. Data Filters
 Filter by demographic and lifestyle categories using a sidebar panel.
+
 ✔️ 2. Dataset Overview
 View total records, column count, unique values, and a preview.
+
 ✔️ 3. Data Explorer
 Get descriptive statistics, column-level details, and distribution summaries.
+
 ✔️ 4. Visualizations
 Choose from multiple interactive charts:
-Histogram
-Box Plot
-Line Chart
+* Histogram
+* Box Plot
+* Line Chart
+
 ✔️ 5. Insights Section
 
 ---------------------------------------------------------------------------------------------------------------------------------------
@@ -106,7 +111,7 @@ Line Chart
 ------------------------------------------------------------------------------------------------------------------------------------
 🚀 How to Run the Project
 Step 1 — Clone the Repository
-git clone https://github.com/YourUsername/Health-Risk-Dashboard.git
+git clone https://github.com/sakshisajjanwar/Health-Risk-Dashboard.git
 cd Health-Risk-Dashboard
 
 Step 2 — Install Dependencies
